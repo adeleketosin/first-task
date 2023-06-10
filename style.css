@@ -9,7 +9,7 @@ body{
     background-repeat: no-repeat;
 }
 .smallcontainer{
-    width: 600px;
+    width: 800px;
     height:80px;
     background-color: white;
     margin: auto;
@@ -30,7 +30,7 @@ body{
     height: 40px;
     color: lightseagreen;
     margin-top: -10px;
-    margin-left: 10px;
+    margin-left: 30px;
 }
 .btn{
     display: flex;
@@ -42,7 +42,7 @@ body{
 .btn-one{
     border: none;
     outline: none;
-    background-color:  lightseagreen;
+    background-color:  rgb(221, 238, 237); 
     border-radius: 10px;
     text-align: center;
 }
@@ -64,3 +64,75 @@ body{
     margin-left: -220px;
     opacity: 0.2px;
 }
+.front{
+    display: flex;
+    text-align: center;
+    margin-top: 35px;
+    height: 30px;
+    margin-left: 200px;
+    /* background-color:rgb(176, 232, 229);  */
+}
+.btn-three{
+    width: 60px;
+    text-align: center;
+    background-color:rgb(221, 238, 237); 
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.btn-four{
+    width: 50px;
+    text-align: center;
+    background-color:rgb(221, 238, 237);  
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.btn-five{
+    width: 40px;
+    text-align: center;
+    background-color:rgb(221, 238, 237); 
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    margin-left:5px;
+}
+.btn-six{
+    width: 50px;
+    text-align: center;
+    background-color:rgb(221, 238, 237); 
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    margin-left: 8px;
+}
+.btn-seven{
+    width: 70px;
+    text-align: center;
+    background-color:rgb(221, 238, 237); 
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.btn-eight{
+    width: 70px;
+    text-align: center;
+    background-color:rgb(221, 238, 237); 
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.btn-nine{
+    width: 70px;
+    text-align: center;
+    background-color:rgb(221, 238, 237); 
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+

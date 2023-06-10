@@ -1,0 +1,66 @@
+
+body{
+    background-color: rgb(223, 239, 239);
+}
+.header{
+    height: 150px;
+    background-color: lightseagreen;
+    background-image: url(bg-header-desktop.svg);
+    background-repeat: no-repeat;
+}
+.smallcontainer{
+    width: 600px;
+    height:80px;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    display: flex;
+}
+.image{
+    width: 70px;
+    height: 65px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.text{
+    display: flex;
+    /* background-color: red; */
+    width: 20px;
+    height: 40px;
+    color: lightseagreen;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+.btn{
+    display: flex;
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.btn-one{
+    border: none;
+    outline: none;
+    background-color:  lightseagreen;
+    border-radius: 10px;
+    text-align: center;
+}
+.btn-two{
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    text-align: center;
+}
+.dev{
+    margin-top: 20px;
+    margin-left: -20px;
+}
+.ago p{
+    margin-top: 60px;
+    margin-left: -220px;
+    opacity: 0.2px;
+}
